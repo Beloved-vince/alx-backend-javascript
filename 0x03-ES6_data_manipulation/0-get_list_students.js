@@ -1,6 +1,6 @@
 /**
  * This function retrieve list of student
- * @author Bezaleel Olakunori 
+ * @author Beloved-Vince
  * @returns {{id: Number, firstName: String, location: String}[]}
  */
 export default function getListStudents() {
